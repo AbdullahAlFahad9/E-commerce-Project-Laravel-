@@ -7,6 +7,8 @@ This project is a fully responsive Laravel-based e-commerce web application that
 ## **📽️ Project Overview**
 For a complete walkthrough of the platform, watch the overview video below:  
 [Watch Project Overview Video](https://youtu.be/vsDUPqgWQwM?si=QXD3gCN9jAJdiGJy)
+[![Portfolio Demo](https://img.youtube.com/vi/vsDUPqgWQwM/maxresdefault.jpg)](https://youtu.be/vsDUPqgWQwM?si=XbQ2YKtVr_5GrWdL)
+
 
 ---
 
